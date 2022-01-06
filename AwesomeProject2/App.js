@@ -51,6 +51,7 @@ const Section = ({children, title}): Node => {
     </View>
   );
 };
+const Metro = require('metro')
 
 const App: () => Node = () => {
   const isDarkMode = useColorScheme() === 'dark';
