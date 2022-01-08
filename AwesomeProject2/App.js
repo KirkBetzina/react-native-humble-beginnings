@@ -72,8 +72,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then come back to see your edits.
+            Edit <Text style={styles.highlight}>App.js</Text> I dont know how to rendfer anything because I cannot sort Metro.
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
